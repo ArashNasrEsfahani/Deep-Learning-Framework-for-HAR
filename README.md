@@ -50,7 +50,6 @@ Place your CSVs under `data/uci_har/` and `data/mhealth/` before running.
 - **State‑of‑the‑Art Hybrid**  
   Residual 1D conv blocks → Bi‑LSTM → multi‑head attention  
 
-Full definitions live in the `models/` folder.
 
 ---
 
