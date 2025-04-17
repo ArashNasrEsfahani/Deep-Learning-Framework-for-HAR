@@ -1,7 +1,7 @@
  
 # A Deep Learning Framework for Human Activity Recognition*
 
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 
 ---
 
